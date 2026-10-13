@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "name": "Norvi-X_Modbus_Master",
+  "target": {
+    "framework": "arduino",
+    "board": "esp32:esp32:esp32_family",
+    "options": {},
+    "sketchPath": "AE01-RS485-Check"
+  },
+  "serial": null,
+  "build": {
+    "properties": []
+  },
+  "createdAt": "2026-10-13T09:09:00.463Z",
+  "updatedAt": "2026-10-13T09:09:00.463Z"
+}
